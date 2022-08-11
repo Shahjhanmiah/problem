@@ -8,17 +8,19 @@
    
    console.log(radianToDegree( RadianToDegree));
    */
+   
 //......//
 
 
    //Problem:2  isJavaScriptFile 
 
-   /*function  isJavaScriptFile (file='index.js'){   
+   /*function  isJavaScriptFile (file='app.js'){   
         return true;                      
           
    }
-   console.log(isJavaScriptFile('index.js'))
+   console.log(isJavaScriptFile('app.js'))
    */
+   
    
    
 
@@ -40,6 +42,7 @@
 
    console.log(oilPrice(1,1,1));
    */
+   
   
    
 
@@ -73,6 +76,7 @@ console.log(publicBusFare(50));
 
 
 
+
 //Problem 5: isBestFriend
 /*const student=[
     {name:'Tom', friend:'Rock'},
@@ -89,7 +93,7 @@ function isBestFriend( friend, name){
            
         }
         
-        else if(element == name[i] ){
+        else if(element == name [i]){
             name=element;
         }
         //return false;
